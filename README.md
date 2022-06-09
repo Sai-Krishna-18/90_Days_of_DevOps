@@ -1,4 +1,4 @@
-# 90DaysofDevOps
+# 90 Days of DevOps
 
 This folder contains my **DevOps Learning Journey of 90 Days of DevOps by MichaelCade**
 
